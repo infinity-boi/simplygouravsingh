@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simplygouravsingh/static/css/main.97ce66b4.css",
-    "main.js": "/simplygouravsingh/static/js/main.f6c6eb41.js",
+    "main.js": "/simplygouravsingh/static/js/main.9fa262d4.js",
     "static/media/synergy-link.jpg": "/simplygouravsingh/static/media/synergy-link.4cec92b641d53014c965.jpg",
     "static/media/anti-boring.png": "/simplygouravsingh/static/media/anti-boring.b81dfd866a1123bf4202.png",
     "static/media/cv.pdf": "/simplygouravsingh/static/media/cv.90cfd963e3592bafec75.pdf",
@@ -18,10 +18,10 @@
     "static/media/checkmark-light.svg": "/simplygouravsingh/static/media/checkmark-light.c8c345ee162e424f794588a227e27958.svg",
     "index.html": "/simplygouravsingh/index.html",
     "main.97ce66b4.css.map": "/simplygouravsingh/static/css/main.97ce66b4.css.map",
-    "main.f6c6eb41.js.map": "/simplygouravsingh/static/js/main.f6c6eb41.js.map"
+    "main.9fa262d4.js.map": "/simplygouravsingh/static/js/main.9fa262d4.js.map"
   },
   "entrypoints": [
     "static/css/main.97ce66b4.css",
-    "static/js/main.f6c6eb41.js"
+    "static/js/main.9fa262d4.js"
   ]
 }
