@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+// import React, { useState, useEffect } from 'react'
 import styles from "./HeroStyles.module.css";
 // import heroImg0 from "../../assets/G0.jpg";
 // import heroImg1 from "../../assets/G1.jpg";
