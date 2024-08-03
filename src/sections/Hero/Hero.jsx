@@ -28,9 +28,8 @@ import leetcodeDark from '../../assets/leetcode-dark.png';
 import CV from "../../assets/cv.pdf";
 import {useTheme} from "../../common/ThemeContext";
 
-const profileImages = [heroImg0,heroImg1,heroImg2,heroImg3,heroImg4,heroImg5,heroImg6,heroImg7,heroImg8,heroImg9,heroImg10,heroImg11,heroImg12,heroImg13,heroImg14];
-
 function Hero() { 
+  const profileImages = [heroImg0,heroImg1,heroImg2,heroImg3,heroImg4,heroImg5,heroImg6,heroImg7,heroImg8,heroImg9,heroImg10,heroImg11,heroImg12,heroImg13,heroImg14];
   const {theme, toggleTheme} = useTheme();
   const [imageIndex, setImageIndex] = useState(0);
   const themeIcon = theme === 'light' ? sun : moon;
