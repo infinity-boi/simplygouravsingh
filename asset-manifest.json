@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/simplygouravsingh/static/css/main.97ce66b4.css",
+    "main.js": "/simplygouravsingh/static/js/main.06a404e0.js",
+    "static/media/G0.jpg": "/simplygouravsingh/static/media/G0.690a99f7474ff28b64ac.jpg",
+    "static/media/G2.jpg": "/simplygouravsingh/static/media/G2.036a0249d3954e927732.jpg",
+    "static/media/G10.jpg": "/simplygouravsingh/static/media/G10.dd163baa98785d2f18b9.jpg",
+    "static/media/G1.jpg": "/simplygouravsingh/static/media/G1.3e7f083efbd44a4b53a9.jpg",
+    "static/media/G11.jpg": "/simplygouravsingh/static/media/G11.57376bb2ab91656a3fa1.jpg",
+    "static/media/G12.jpg": "/simplygouravsingh/static/media/G12.80d949f1caa90b6da981.jpg",
+    "static/media/G14.jpg": "/simplygouravsingh/static/media/G14.44ffa626d0a2e102fd7b.jpg",
+    "static/media/G13.jpg": "/simplygouravsingh/static/media/G13.6d1be9617bf7c442c099.jpg",
+    "static/media/G6.jpg": "/simplygouravsingh/static/media/G6.6d1be9617bf7c442c099.jpg",
+    "static/media/G4.jpg": "/simplygouravsingh/static/media/G4.cdd322657f73c69fae35.jpg",
+    "static/media/G5.jpg": "/simplygouravsingh/static/media/G5.78ee136a9cf0f7f66e72.jpg",
+    "static/media/G9.jpg": "/simplygouravsingh/static/media/G9.d4ea16e145f74b0f0ec6.jpg",
+    "static/media/G7.jpg": "/simplygouravsingh/static/media/G7.fb6e26fa004a32baaf21.jpg",
+    "static/media/G3.jpg": "/simplygouravsingh/static/media/G3.7ee7234b3af1e85ede5d.jpg",
+    "static/media/G8.jpg": "/simplygouravsingh/static/media/G8.c4e916a543f7f8904e8c.jpg",
+    "static/media/synergy-link.jpg": "/simplygouravsingh/static/media/synergy-link.4cec92b641d53014c965.jpg",
+    "static/media/anti-boring.png": "/simplygouravsingh/static/media/anti-boring.b81dfd866a1123bf4202.png",
+    "static/media/cv.pdf": "/simplygouravsingh/static/media/cv.90cfd963e3592bafec75.pdf",
+    "static/media/health-tracker.jpg": "/simplygouravsingh/static/media/health-tracker.95111239a7c868771986.jpg",
+    "static/media/memory-allocation.jpg": "/simplygouravsingh/static/media/memory-allocation.b8e29d801b1499b07670.jpg",
+    "static/media/sun.svg": "/simplygouravsingh/static/media/sun.a986458e5595b4237f08ee312d301ff3.svg",
+    "static/media/github-dark.svg": "/simplygouravsingh/static/media/github-dark.dd326b9d1397ddd12c766006b60b0a97.svg",
+    "static/media/github-light.svg": "/simplygouravsingh/static/media/github-light.f4a3dde7429c7db2d098ebfdb4175701.svg",
+    "static/media/moon.svg": "/simplygouravsingh/static/media/moon.e8ceccc7130ff6ac43ef85eedc8c3005.svg",
+    "static/media/linkedin-dark.svg": "/simplygouravsingh/static/media/linkedin-dark.4849f84a7e76fde3e7508ef828cf6d7b.svg",
+    "static/media/linkedin-light.svg": "/simplygouravsingh/static/media/linkedin-light.f52c806dae34fc7afae25af380bf8c66.svg",
+    "static/media/checkmark-dark.svg": "/simplygouravsingh/static/media/checkmark-dark.1826eabf0e2181d2f2c88d7b72731149.svg",
+    "static/media/checkmark-light.svg": "/simplygouravsingh/static/media/checkmark-light.c8c345ee162e424f794588a227e27958.svg",
+    "index.html": "/simplygouravsingh/index.html",
+    "main.97ce66b4.css.map": "/simplygouravsingh/static/css/main.97ce66b4.css.map",
+    "main.06a404e0.js.map": "/simplygouravsingh/static/js/main.06a404e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ce66b4.css",
+    "static/js/main.06a404e0.js"
+  ]
+}
